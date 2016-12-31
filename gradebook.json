@@ -1,0 +1,13 @@
+[
+    {
+        "username": "pattacini",
+        "tutorials": [
+            { "name": "tutorial_cartesian-interface", "status": "passed" },
+            { "name": "tutorial_gaze-interface", "status": "passed" }
+        ],
+        "assignments": [
+            { "name": "assignment_make-it-roll", "status": "failed" }
+        ],
+        "scores": 2
+    }    
+]
