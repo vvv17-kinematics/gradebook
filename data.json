@@ -1,4 +1,8 @@
 {
+    "students": [
+        "pattacini"
+    ],
+    
     "tutorials": [
         {
             "name": "tutorial_cartesian-interface",
