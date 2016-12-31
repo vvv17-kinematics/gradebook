@@ -1,0 +1,14 @@
+{
+    "tutorials": [
+        {
+            "name": "tutorial_cartesian-interface",
+            "url": "https://github.com/vvv-school/tutorial_cartesian-interface.git",
+            "scores": 1
+        },
+        {
+            "name": "tutorial_gaze-interface",
+            "url": "https://github.com/vvv-school/gaze_cartesian-interface.git",
+            "scores": 1
+        }
+    ]
+}
