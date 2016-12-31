@@ -2,12 +2,12 @@
     {
         "username": "pattacini",
         "tutorials": [
-            { "name": "tutorial_cartesian-interface", "status": "passed" },
-            { "name": "tutorial_gaze-interface", "status": "passed" }
+            { "name": "tutorial_cartesian-interface", "status": ":white_check_mark:" },
+            { "name": "tutorial_gaze-interface", "status": ":clock7:" }
         ],
         "assignments": [
-            { "name": "assignment_make-it-roll", "status": "failed" }
+            { "name": "assignment_make-it-roll", "status": ":x:" }
         ],
-        "scores": 2
+        "scores": 1
     }    
 ]
