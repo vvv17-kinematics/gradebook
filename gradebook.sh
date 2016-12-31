@@ -9,9 +9,10 @@
 # - jq
 
 org=vvv17-kinematics
+curdir=$(pwd)
 
 rm build -rf
 mkdir build && cd build
 
 git clone https://github.com/vvv-school/vvv-school.github.io.git
-./vvv-school/github.io/scripts/gradebook.sh $org $(pwd)/../
+./vvv-school.github.io/scripts/gradebook.sh $org $curdir
