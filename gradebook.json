@@ -2,11 +2,11 @@
     {
         "username": "pattacini",
         "tutorials": [
-            { "name": "tutorial_cartesian-interface", "status": ":white_check_mark:" },
-            { "name": "tutorial_gaze-interface", "status": ":clock7:" }
+            { "name": "tutorial_cartesian-interface", "status": ":white_check_mark:", "last_commit_date": "YYYY-MM-DDTHH:MM:SSZ" },
+            { "name": "tutorial_gaze-interface", "status": ":clock7:", "last_commit_date": "YYYY-MM-DDTHH:MM:SSZ" }
         ],
         "assignments": [
-            { "name": "assignment_make-it-roll", "status": ":x:" }
+            { "name": "assignment_make-it-roll", "status": ":x:", "last_commit_date": "YYYY-MM-DDTHH:MM:SSZ" }
         ],
         "scores": 1
     }    
