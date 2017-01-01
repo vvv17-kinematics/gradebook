@@ -9,5 +9,17 @@
             { "name": "assignment_make-it-roll-pattacini", "status": ":x:", "last_commit_date": "YYYY-MM-DDTHH:MM:SSZ" }
         ],
         "score": 1
+    },
+    
+    {
+        "username": "lornat75",
+        "tutorials": [
+            { "name": "tutorial_cartesian-interface-pattacini", "status": ":white_check_mark:", "last_commit_date": "YYYY-MM-DDTHH:MM:SSZ" },
+            { "name": "tutorial_gaze-interface-pattacini", "status": ":clock7:", "last_commit_date": "YYYY-MM-DDTHH:MM:SSZ" }
+        ],
+        "assignments": [
+            { "name": "assignment_make-it-roll-pattacini", "status": ":x:", "last_commit_date": "YYYY-MM-DDTHH:MM:SSZ" }
+        ],
+        "score": 1
     }    
 ]
