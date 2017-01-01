@@ -8,6 +8,6 @@
         "assignments": [
             { "name": "assignment_make-it-roll-pattacini", "status": ":x:", "last_commit_date": "YYYY-MM-DDTHH:MM:SSZ" }
         ],
-        "scores": 1
+        "score": 1
     }    
 ]
