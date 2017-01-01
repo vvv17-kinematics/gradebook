@@ -8,12 +8,12 @@
         {
             "name": "tutorial_cartesian-interface",
             "url": "https://github.com/vvv-school/tutorial_cartesian-interface.git",
-            "scores": 1
+            "score": 1
         },
         {
             "name": "tutorial_gaze-interface",
             "url": "https://github.com/vvv-school/tutorial_gaze-interface.git",
-            "scores": 1
+            "score": 1
         }
     ],
     
@@ -21,7 +21,7 @@
         {
             "name": "assignment_make-it-roll",
             "url": "https://github.com/vvv-school/assignment_make-it-roll.git",
-            "scores": 5
+            "score": 5
         }
     ]    
 }
