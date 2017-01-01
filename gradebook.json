@@ -14,11 +14,11 @@
     {
         "username": "lornat75",
         "tutorials": [
-            { "name": "tutorial_cartesian-interface-pattacini", "status": ":white_check_mark:", "last_commit_date": "YYYY-MM-DDTHH:MM:SSZ" },
-            { "name": "tutorial_gaze-interface-pattacini", "status": ":clock7:", "last_commit_date": "YYYY-MM-DDTHH:MM:SSZ" }
+            { "name": "tutorial_cartesian-interface-lornat75", "status": ":white_check_mark:", "last_commit_date": "YYYY-MM-DDTHH:MM:SSZ" },
+            { "name": "tutorial_gaze-interface-lornat75", "status": ":clock7:", "last_commit_date": "YYYY-MM-DDTHH:MM:SSZ" }
         ],
         "assignments": [
-            { "name": "assignment_make-it-roll-pattacini", "status": ":x:", "last_commit_date": "YYYY-MM-DDTHH:MM:SSZ" }
+            { "name": "assignment_make-it-roll-lornat75", "status": ":x:", "last_commit_date": "YYYY-MM-DDTHH:MM:SSZ" }
         ],
         "score": 1
     }    
