@@ -11,7 +11,7 @@
 org=vvv17-kinematics
 curdir=$(pwd)
 
-if [ -d "build" ]; then 
+if [ -d build ]; then 
     rm build -rf
 fi
 mkdir build && cd build
