@@ -2,11 +2,11 @@
     {
         "username": "pattacini",
         "tutorials": [
-            { "name": "tutorial_cartesian-interface-pattacini", "status": ":white_check_mark:" },
-            { "name": "tutorial_gaze-interface-pattacini", "status": ":white_check_mark:" }
+            { "name": "tutorial_cartesian-interface-pattacini", "status": ":white_check_mark:", "score": 1 },
+            { "name": "tutorial_gaze-interface-pattacini", "status": ":white_check_mark:", "score": 1 }
         ],
         "assignments": [
-            { "name": "assignment_make-it-roll-pattacini", "status": ":x:", "last_commit_date": "YYYY-MM-DDTHH:MM:SSZ" }
+            { "name": "assignment_make-it-roll-pattacini", "status": ":x:", "last_commit_date": "YYYY-MM-DDTHH:MM:SSZ", "score": 5}
         ],
         "score": 2
     },
@@ -14,11 +14,11 @@
     {
         "username": "vvv-school-bot",
         "tutorials": [
-            { "name": "tutorial_cartesian-interface-vvv-school-bot", "status": ":white_check_mark:" },
-            { "name": "tutorial_gaze-interface-vvv-school-bot", "status": ":white_check_mark:" }
+            { "name": "tutorial_cartesian-interface-vvv-school-bot", "status": ":white_check_mark:", "score": 1 },
+            { "name": "tutorial_gaze-interface-vvv-school-bot", "status": ":white_check_mark:", "score": 1 }
         ],
         "assignments": [
-            { "name": "assignment_make-it-roll-vvv-school-bot", "status": ":x:", "last_commit_date": "YYYY-MM-DDTHH:MM:SSZ" }
+            { "name": "assignment_make-it-roll-vvv-school-bot", "status": ":x:", "last_commit_date": "YYYY-MM-DDTHH:MM:SSZ", "score": 5}
         ],
         "score": 2
     }    
