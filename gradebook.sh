@@ -9,6 +9,7 @@
 # - jq
 
 org=vvv17-kinematics
+team=vvv17-students
 curdir=$(pwd)
 
 if [ -d build ]; then 
@@ -22,4 +23,4 @@ if [ $? -ne 0 ]; then
     exit 1
 fi
 
-./vvv-school.github.io/scripts/gradebook.sh $org $curdir $curdir/build
+./vvv-school.github.io/scripts/gradebook.sh $org $team $curdir $curdir/build
