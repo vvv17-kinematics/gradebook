@@ -1,9 +1,4 @@
 {
-    "students": [
-        "pattacini",
-        "lornat75"
-    ],
-    
     "tutorials": [
         {
             "name": "tutorial_cartesian-interface",
