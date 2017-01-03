@@ -21,5 +21,12 @@
             { "name": "assignment_make-it-roll-vvv-school-bot", "status": ":x:", "last_commit_date": "YYYY-MM-DDTHH:MM:SSZ", "score": 5}
         ],
         "score": 2
+    },
+    
+    {
+        "username": "pippo",
+        "tutorials": [ ],
+        "assignments": [ ],
+        "score": 0
     }    
 ]
