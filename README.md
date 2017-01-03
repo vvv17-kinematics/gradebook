@@ -2,7 +2,11 @@
 
 ### [**pattacini**](https://github.com/pattacini) Grade
 
-**Total Score = 0**
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [tutorial_cartesian-interface-pattacini](https://github.com/vvv17-kinematics/tutorial_cartesian-interface-pattacini) | :white_check_mark: | 1 |
+
+**Total Score = 1**
 
 ---
 
