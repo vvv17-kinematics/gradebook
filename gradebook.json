@@ -12,18 +12,6 @@
     },
     
     {
-        "username": "vvv-school-bot",
-        "tutorials": [
-            { "name": "tutorial_cartesian-interface-vvv-school-bot", "status": ":white_check_mark:", "score": 1 },
-            { "name": "tutorial_gaze-interface-vvv-school-bot", "status": ":white_check_mark:", "score": 1 }
-        ],
-        "assignments": [
-            { "name": "assignment_make-it-roll-vvv-school-bot", "status": ":x:", "last_commit_date": "YYYY-MM-DDTHH:MM:SSZ", "score": 5}
-        ],
-        "score": 2
-    },
-    
-    {
         "username": "pippo",
         "tutorials": [ ],
         "assignments": [ ],
