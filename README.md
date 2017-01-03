@@ -1,6 +1,6 @@
 ## Gradebook in Robot Kinematics
 
-### [**pattacini**](https://github.com/pattacini) has score = **0**
+### [**pattacini**](https://github.com/pattacini) has score = **1**
 
 
 
