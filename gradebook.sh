@@ -17,7 +17,7 @@ if [ -d build ]; then
 fi
 mkdir build && cd build
 
-git clone https://github.com/vvv-school/vvv-school.github.io.git
+git clone --depth 1 -b master https://github.com/vvv-school/vvv-school.github.io.git
 if [ $? -ne 0 ]; then
     echo "GitHub seems unreachable"
     exit 1
