@@ -17,10 +17,10 @@ if [ -d build ]; then
 fi
 mkdir build && cd build
 
-git clone --depth 1 -b master https://github.com/vvv-school/vvv-school.github.io.git
+git clone --depth 1 -b master https://github.com/vvv-school/vvv-school.github.io.git helpers
 if [ $? -ne 0 ]; then
     echo "GitHub seems unreachable"
     exit 1
 fi
 
-./vvv-school.github.io/scripts/gradebook.sh $org $team $curdir $curdir/build
+./helpers/scripts/gradebook.sh $org $team $curdir $curdir/build
