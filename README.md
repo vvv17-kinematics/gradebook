@@ -1,4 +1,4 @@
-## Gradebook in Robot Kinematics
+## Gradebook of VVV17 Robot Kinematics
 
 ### [**pattacini**](https://github.com/pattacini) grade
 
