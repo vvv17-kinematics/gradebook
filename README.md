@@ -4,9 +4,9 @@
 
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
-| [tutorial_cartesian-interface-pattacini](https://github.com/vvv17-kinematics/tutorial_cartesian-interface-pattacini) | :white_check_mark: | 3 |
+| [tutorial_cartesian-interface-pattacini](https://github.com/vvv17-kinematics/tutorial_cartesian-interface-pattacini) | :x: | 0 |
 
-![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
 
