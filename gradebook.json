@@ -2,15 +2,8 @@
   {
     "username": "pattacini",
     "tutorials": [],
-    "assignments": [
-      {
-        "name": "tutorial_cartesian-interface-pattacini",
-        "status": ":white_check_mark:",
-        "last_commit_date": "2017-01-05T09:11:43Z",
-        "score": 3
-      }
-    ],
-    "score": 3
+    "assignments": [],
+    "score": 0
   },
   {
     "username": "vvv-school-bot",
