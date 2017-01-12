@@ -11,12 +11,12 @@
     "assignments": [
       {
         "name": "assignment_make-it-roll-pattacini",
-        "status": ":x:",
-        "last_commit_date": "2017-01-12T16:49:13Z",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-01-12T17:20:56Z",
         "score": 5
       }
     ],
-    "score": 1
+    "score": 6
   },
   {
     "username": "vvv-school-bot",
