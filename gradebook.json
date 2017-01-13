@@ -93,7 +93,14 @@
   {
     "username": "giuliavezzani",
     "tutorials": [],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_make-it-roll-giuliavezzani",
+        "status": ":x:",
+        "last_commit_date": "2017-01-13T13:56:10Z",
+        "score": 5
+      }
+    ],
     "score": 0
   },
   {
