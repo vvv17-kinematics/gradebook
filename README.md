@@ -101,6 +101,10 @@
 
 ### [**iron76**](https://github.com/iron76) grade
 
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_make-it-roll-iron76](https://github.com/vvv17-kinematics/assignment_make-it-roll-iron76) | :x: | **0** |
+
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
