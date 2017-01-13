@@ -164,7 +164,14 @@
   {
     "username": "vtikha",
     "tutorials": [],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_make-it-roll-vtikha",
+        "status": ":x:",
+        "last_commit_date": "2017-01-13T13:10:36Z",
+        "score": 5
+      }
+    ],
     "score": 0
   },
   {
