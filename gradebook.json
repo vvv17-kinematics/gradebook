@@ -1,181 +1,18 @@
 [
   {
-    "username": "arrenglover",
-    "tutorials": [],
-    "assignments": [
-      {
-        "name": "assignment_make-it-roll-arrenglover",
-        "status": ":x:",
-        "last_commit_date": "2017-01-13T13:56:10Z",
-        "score": 5
-      }
-    ],
-    "score": 0
-  },
-  {
     "username": "Arya07",
     "tutorials": [],
-    "assignments": [
-      {
-        "name": "assignment_make-it-roll-Arya07",
-        "status": ":x:",
-        "last_commit_date": "2017-01-13T13:56:10Z",
-        "score": 5
-      }
-    ],
+    "assignments": [],
     "score": 0
   },
   {
-    "username": "ChiaraBartolozzi",
+    "username": "gmmarconi",
     "tutorials": [],
-    "assignments": [
-      {
-        "name": "assignment_make-it-roll-ChiaraBartolozzi",
-        "status": ":x:",
-        "last_commit_date": "2017-01-13T13:56:10Z",
-        "score": 5
-      }
-    ],
-    "score": 0
-  },
-  {
-    "username": "claudiofantacci",
-    "tutorials": [],
-    "assignments": [
-      {
-        "name": "assignment_make-it-roll-claudiofantacci",
-        "status": ":x:",
-        "last_commit_date": "2017-01-13T13:10:36Z",
-        "score": 5
-      }
-    ],
-    "score": 0
-  },
-  {
-    "username": "DanielePucci",
-    "tutorials": [],
-    "assignments": [
-      {
-        "name": "assignment_make-it-roll-DanielePucci",
-        "status": ":x:",
-        "last_commit_date": "2017-01-13T13:10:36Z",
-        "score": 5
-      }
-    ],
-    "score": 0
-  },
-  {
-    "username": "francesco-romano",
-    "tutorials": [],
-    "assignments": [
-      {
-        "name": "assignment_make-it-roll-francesco-romano",
-        "status": ":x:",
-        "last_commit_date": "2017-01-13T13:10:36Z",
-        "score": 5
-      }
-    ],
-    "score": 0
-  },
-  {
-    "username": "gabrielenava",
-    "tutorials": [],
-    "assignments": [
-      {
-        "name": "assignment_make-it-roll-gabrielenava",
-        "status": ":x:",
-        "last_commit_date": "2017-01-13T13:56:10Z",
-        "score": 5
-      }
-    ],
-    "score": 0
-  },
-  {
-    "username": "giuliavezzani",
-    "tutorials": [],
-    "assignments": [
-      {
-        "name": "assignment_make-it-roll-giuliavezzani",
-        "status": ":x:",
-        "last_commit_date": "2017-01-13T13:56:10Z",
-        "score": 5
-      }
-    ],
+    "assignments": [],
     "score": 0
   },
   {
     "username": "Iaxama",
-    "tutorials": [],
-    "assignments": [
-      {
-        "name": "assignment_make-it-roll-Iaxama",
-        "status": ":x:",
-        "last_commit_date": "2017-01-13T13:56:10Z",
-        "score": 5
-      }
-    ],
-    "score": 0
-  },
-  {
-    "username": "iron76",
-    "tutorials": [],
-    "assignments": [
-      {
-        "name": "assignment_make-it-roll-iron76",
-        "status": ":x:",
-        "last_commit_date": "2017-01-13T13:56:10Z",
-        "score": 5
-      }
-    ],
-    "score": 0
-  },
-  {
-    "username": "pattacini",
-    "tutorials": [
-      {
-        "name": "tutorial_cartesian-interface-pattacini",
-        "status": ":white_check_mark:",
-        "score": 1
-      }
-    ],
-    "assignments": [
-      {
-        "name": "assignment_make-it-roll-pattacini",
-        "status": ":white_check_mark:",
-        "last_commit_date": "2017-01-13T15:29:37Z",
-        "score": 5
-      }
-    ],
-    "score": 6
-  },
-  {
-    "username": "traversaro",
-    "tutorials": [],
-    "assignments": [
-      {
-        "name": "assignment_make-it-roll-traversaro",
-        "status": ":x:",
-        "last_commit_date": "2017-01-13T13:56:10Z",
-        "score": 5
-      }
-    ],
-    "score": 0
-  },
-  {
-    "username": "vtikha",
-    "tutorials": [],
-    "assignments": [
-      {
-        "name": "assignment_make-it-roll-vtikha",
-        "status": ":x:",
-        "last_commit_date": "2017-01-13T13:10:36Z",
-        "score": 5
-      }
-    ],
-    "score": 0
-  },
-  {
-    "username": "vvv-school-bot",
     "tutorials": [],
     "assignments": [],
     "score": 0
