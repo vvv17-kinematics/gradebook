@@ -5,6 +5,7 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_cartesian-interface-pattacini](https://github.com/vvv17-kinematics/tutorial_cartesian-interface-pattacini) | :white_check_mark: | **1** |
+| [assignment_make-it-roll-pattacini](https://github.com/vvv17-kinematics/assignment_make-it-roll-pattacini) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
 
