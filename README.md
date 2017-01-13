@@ -46,6 +46,10 @@
 
 ### [**DanielePucci**](https://github.com/DanielePucci) grade
 
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_make-it-roll-DanielePucci](https://github.com/vvv17-kinematics/assignment_make-it-roll-DanielePucci) | :x: | **0** |
+
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
