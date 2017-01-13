@@ -1,22 +1,81 @@
 [
   {
+    "username": "arrenglover",
+    "tutorials": [],
+    "assignments": [],
+    "score": 0
+  },
+  {
+    "username": "Arya07",
+    "tutorials": [],
+    "assignments": [],
+    "score": 0
+  },
+  {
+    "username": "ChiaraBartolozzi",
+    "tutorials": [],
+    "assignments": [],
+    "score": 0
+  },
+  {
+    "username": "claudiofantacci",
+    "tutorials": [],
+    "assignments": [],
+    "score": 0
+  },
+  {
+    "username": "DanielePucci",
+    "tutorials": [],
+    "assignments": [],
+    "score": 0
+  },
+  {
+    "username": "francesco-romano",
+    "tutorials": [],
+    "assignments": [],
+    "score": 0
+  },
+  {
+    "username": "gabrielenava",
+    "tutorials": [],
+    "assignments": [],
+    "score": 0
+  },
+  {
+    "username": "giuliavezzani",
+    "tutorials": [],
+    "assignments": [],
+    "score": 0
+  },
+  {
+    "username": "Iaxama",
+    "tutorials": [],
+    "assignments": [],
+    "score": 0
+  },
+  {
+    "username": "iron76",
+    "tutorials": [],
+    "assignments": [],
+    "score": 0
+  },
+  {
     "username": "pattacini",
-    "tutorials": [
-      {
-        "name": "tutorial_cartesian-interface-pattacini",
-        "status": ":white_check_mark:",
-        "score": 1
-      }
-    ],
-    "assignments": [
-      {
-        "name": "assignment_make-it-roll-pattacini",
-        "status": ":white_check_mark:",
-        "last_commit_date": "2017-01-13T09:52:14Z",
-        "score": 5
-      }
-    ],
-    "score": 6
+    "tutorials": [],
+    "assignments": [],
+    "score": 0
+  },
+  {
+    "username": "traversaro",
+    "tutorials": [],
+    "assignments": [],
+    "score": 0
+  },
+  {
+    "username": "vtikha",
+    "tutorials": [],
+    "assignments": [],
+    "score": 0
   },
   {
     "username": "vvv-school-bot",

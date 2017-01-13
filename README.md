@@ -1,13 +1,92 @@
 ## Gradebook of VVV17 Robot Kinematics
 
+### [**arrenglover**](https://github.com/arrenglover) grade
+
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+
+---
+
+
+### [**Arya07**](https://github.com/Arya07) grade
+
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+
+---
+
+
+### [**ChiaraBartolozzi**](https://github.com/ChiaraBartolozzi) grade
+
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+
+---
+
+
+### [**claudiofantacci**](https://github.com/claudiofantacci) grade
+
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+
+---
+
+
+### [**DanielePucci**](https://github.com/DanielePucci) grade
+
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+
+---
+
+
+### [**francesco-romano**](https://github.com/francesco-romano) grade
+
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+
+---
+
+
+### [**gabrielenava**](https://github.com/gabrielenava) grade
+
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+
+---
+
+
+### [**giuliavezzani**](https://github.com/giuliavezzani) grade
+
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+
+---
+
+
+### [**Iaxama**](https://github.com/Iaxama) grade
+
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+
+---
+
+
+### [**iron76**](https://github.com/iron76) grade
+
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+
+---
+
+
 ### [**pattacini**](https://github.com/pattacini) grade
 
-| assignment | status | score |
-|    :--:    |  :--:  | :--:  |
-| [tutorial_cartesian-interface-pattacini](https://github.com/vvv17-kinematics/tutorial_cartesian-interface-pattacini) | :white_check_mark: | **1** |
-| [assignment_make-it-roll-pattacini](https://github.com/vvv17-kinematics/assignment_make-it-roll-pattacini) | :white_check_mark: | **5** |
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
-![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
+---
+
+
+### [**traversaro**](https://github.com/traversaro) grade
+
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+
+---
+
+
+### [**vtikha**](https://github.com/vtikha) grade
+
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
 
