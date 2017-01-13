@@ -138,7 +138,14 @@
         "score": 1
       }
     ],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_make-it-roll-pattacini",
+        "status": ":x:",
+        "last_commit_date": "2017-01-13T13:10:36Z",
+        "score": 5
+      }
+    ],
     "score": 1
   },
   {
