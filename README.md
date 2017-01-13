@@ -57,6 +57,10 @@
 
 ### [**francesco-romano**](https://github.com/francesco-romano) grade
 
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_make-it-roll-francesco-romano](https://github.com/vvv17-kinematics/assignment_make-it-roll-francesco-romano) | :x: | **0** |
+
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
