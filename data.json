@@ -1,15 +1,20 @@
 {
     "tutorials": [
         {
-            "name": "tutorial_gaze-interface",
-            "url": "https://github.com/vvv-school/tutorial_gaze-interface.git",
+            "name": "tutorial_joint-interface",
+            "url": "https://github.com/vvv-school/tutorial_joint-interface.git",
             "score": 1
         },
         {
             "name": "tutorial_cartesian-interface",
             "url": "https://github.com/vvv-school/tutorial_cartesian-interface.git",
             "score": 1
-        }
+        },
+        {
+            "name": "tutorial_gaze-interface",
+            "url": "https://github.com/vvv-school/tutorial_gaze-interface.git",
+            "score": 1
+        }        
     ],
     
     "assignments": [
