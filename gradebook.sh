@@ -13,7 +13,7 @@ team=vvv17-students
 curdir=$(pwd)
 
 if [ -d build ]; then 
-    rm build -rf
+    rm -Rf build
 fi
 mkdir build && cd build
 
