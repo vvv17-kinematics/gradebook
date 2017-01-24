@@ -21,7 +21,12 @@
         {
             "name": "assignment_make-it-roll",
             "url": "https://github.com/vvv-school/assignment_make-it-roll.git",
-            "score": 4
-        }
+            "score": 3
+        },
+        {
+            "name": "assignment_grasp-it",
+            "url": "https://github.com/vvv-school/assignment_grasp-it",
+            "score": 5
+        }        
     ]    
 }
