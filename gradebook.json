@@ -62,7 +62,14 @@
   {
     "username": "pattacini",
     "tutorials": [],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_make-it-roll-pattacini",
+        "status": ":x:",
+        "last_commit_date": "2017-01-25T19:21:53Z",
+        "score": 3
+      }
+    ],
     "score": 0
   },
   {
