@@ -72,10 +72,6 @@
 
 ### [**pattacini**](https://github.com/pattacini) grade
 
-| assignment | status | score |
-|    :--:    |  :--:  | :--:  |
-| [assignment_make-it-roll-pattacini](https://github.com/vvv17-kinematics/assignment_make-it-roll-pattacini) | :x: | **0** |
-
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
