@@ -157,9 +157,15 @@
   },
   {
     "username": "fabian-paus",
-    "tutorials": [],
+    "tutorials": [
+      {
+        "name": "tutorial_joint-interface-fabian-paus",
+        "status": ":white_check_mark:",
+        "score": 1
+      }
+    ],
     "assignments": [],
-    "score": 0
+    "score": 1
   },
   {
     "username": "gmmarconi",
