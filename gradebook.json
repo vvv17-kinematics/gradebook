@@ -222,10 +222,15 @@
         "name": "tutorial_joint-interface-fabian-paus",
         "status": ":white_check_mark:",
         "score": 1
+      },
+      {
+        "name": "tutorial_cartesian-interface-fabian-paus",
+        "status": ":white_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [],
-    "score": 1
+    "score": 2
   },
   {
     "username": "gmmarconi",

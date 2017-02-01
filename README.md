@@ -160,8 +160,9 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_joint-interface-fabian-paus](https://github.com/vvv17-kinematics/tutorial_joint-interface-fabian-paus) | :white_check_mark: | **1** |
+| [tutorial_cartesian-interface-fabian-paus](https://github.com/vvv17-kinematics/tutorial_cartesian-interface-fabian-paus) | :white_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
 ---
 
