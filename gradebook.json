@@ -18,7 +18,14 @@
         "score": 1
       }
     ],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_make-it-roll-AlexAntn",
+        "status": ":x:",
+        "last_commit_date": "2017-01-26 15:52:44 UTC",
+        "score": 3
+      }
+    ],
     "score": 3
   },
   {
