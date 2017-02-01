@@ -97,8 +97,9 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_joint-interface-bmagyar](https://github.com/vvv17-kinematics/tutorial_joint-interface-bmagyar) | :white_check_mark: | **1** |
 | [tutorial_cartesian-interface-bmagyar](https://github.com/vvv17-kinematics/tutorial_cartesian-interface-bmagyar) | :white_check_mark: | **1** |
+| [tutorial_gaze-interface-bmagyar](https://github.com/vvv17-kinematics/tutorial_gaze-interface-bmagyar) | :white_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
 
 ---
 
