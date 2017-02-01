@@ -91,6 +91,7 @@
 | [tutorial_joint-interface-BarisSerhan](https://github.com/vvv17-kinematics/tutorial_joint-interface-BarisSerhan) | :white_check_mark: | **1** |
 | [tutorial_cartesian-interface-BarisSerhan](https://github.com/vvv17-kinematics/tutorial_cartesian-interface-BarisSerhan) | :white_check_mark: | **1** |
 | [tutorial_gaze-interface-BarisSerhan](https://github.com/vvv17-kinematics/tutorial_gaze-interface-BarisSerhan) | :white_check_mark: | **1** |
+| [assignment_make-it-roll-BarisSerhan](https://github.com/vvv17-kinematics/assignment_make-it-roll-BarisSerhan) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
 
