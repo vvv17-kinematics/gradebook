@@ -272,8 +272,9 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_joint-interface-LuSeKa](https://github.com/vvv17-kinematics/tutorial_joint-interface-LuSeKa) | :white_check_mark: | **1** |
 | [tutorial_cartesian-interface-LuSeKa](https://github.com/vvv17-kinematics/tutorial_cartesian-interface-LuSeKa) | :white_check_mark: | **1** |
+| [tutorial_gaze-interface-LuSeKa](https://github.com/vvv17-kinematics/tutorial_gaze-interface-LuSeKa) | :white_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
 
 ---
 
