@@ -123,7 +123,11 @@
 
 ### [**damianomal**](https://github.com/damianomal) grade
 
-![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [tutorial_joint-interface-damianomal](https://github.com/vvv17-kinematics/tutorial_joint-interface-damianomal) | :white_check_mark: | **1** |
+
+![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
 
 ---
 
