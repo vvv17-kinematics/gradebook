@@ -230,6 +230,7 @@
 | [tutorial_joint-interface-ipa-bfb](https://github.com/vvv17-kinematics/tutorial_joint-interface-ipa-bfb) | :white_check_mark: | **1** |
 | [tutorial_cartesian-interface-ipa-bfb](https://github.com/vvv17-kinematics/tutorial_cartesian-interface-ipa-bfb) | :white_check_mark: | **1** |
 | [tutorial_gaze-interface-ipa-bfb](https://github.com/vvv17-kinematics/tutorial_gaze-interface-ipa-bfb) | :white_check_mark: | **1** |
+| [assignment_make-it-roll-ipa-bfb](https://github.com/vvv17-kinematics/assignment_make-it-roll-ipa-bfb) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
 
