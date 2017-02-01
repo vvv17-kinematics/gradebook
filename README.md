@@ -394,6 +394,7 @@
 | [tutorial_cartesian-interface-svestark](https://github.com/vvv17-kinematics/tutorial_cartesian-interface-svestark) | :white_check_mark: | **1** |
 | [tutorial_gaze-interface-svestark](https://github.com/vvv17-kinematics/tutorial_gaze-interface-svestark) | :white_check_mark: | **1** |
 | [assignment_make-it-roll-svestark](https://github.com/vvv17-kinematics/assignment_make-it-roll-svestark) | :x: | **0** |
+| [assignment_grasp-it-svestark](https://github.com/vvv17-kinematics/assignment_grasp-it-svestark) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
 
