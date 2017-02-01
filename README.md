@@ -300,9 +300,9 @@
 | [tutorial_joint-interface-LuSeKa](https://github.com/vvv17-kinematics/tutorial_joint-interface-LuSeKa) | :white_check_mark: | **1** |
 | [tutorial_cartesian-interface-LuSeKa](https://github.com/vvv17-kinematics/tutorial_cartesian-interface-LuSeKa) | :white_check_mark: | **1** |
 | [tutorial_gaze-interface-LuSeKa](https://github.com/vvv17-kinematics/tutorial_gaze-interface-LuSeKa) | :white_check_mark: | **1** |
-| [assignment_make-it-roll-LuSeKa](https://github.com/vvv17-kinematics/assignment_make-it-roll-LuSeKa) | :x: | **0** |
+| [assignment_make-it-roll-LuSeKa](https://github.com/vvv17-kinematics/assignment_make-it-roll-LuSeKa) | :white_check_mark: | **3** |
 
-![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
 
 ---
 
