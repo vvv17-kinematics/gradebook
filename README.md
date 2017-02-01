@@ -132,9 +132,9 @@
 | [tutorial_joint-interface-crbothe](https://github.com/vvv17-kinematics/tutorial_joint-interface-crbothe) | :white_check_mark: | **1** |
 | [tutorial_cartesian-interface-crbothe](https://github.com/vvv17-kinematics/tutorial_cartesian-interface-crbothe) | :white_check_mark: | **1** |
 | [tutorial_gaze-interface-crbothe](https://github.com/vvv17-kinematics/tutorial_gaze-interface-crbothe) | :white_check_mark: | **1** |
-| [assignment_make-it-roll-crbothe](https://github.com/vvv17-kinematics/assignment_make-it-roll-crbothe) | :x: | **0** |
+| [assignment_make-it-roll-crbothe](https://github.com/vvv17-kinematics/assignment_make-it-roll-crbothe) | :white_check_mark: | **3** |
 
-![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
 
 ---
 
