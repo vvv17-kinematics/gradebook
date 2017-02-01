@@ -398,9 +398,9 @@
 | [tutorial_joint-interface-vicentepedro](https://github.com/vvv17-kinematics/tutorial_joint-interface-vicentepedro) | :white_check_mark: | **1** |
 | [tutorial_cartesian-interface-vicentepedro](https://github.com/vvv17-kinematics/tutorial_cartesian-interface-vicentepedro) | :white_check_mark: | **1** |
 | [tutorial_gaze-interface-vicentepedro](https://github.com/vvv17-kinematics/tutorial_gaze-interface-vicentepedro) | :white_check_mark: | **1** |
-| [assignment_make-it-roll-vicentepedro](https://github.com/vvv17-kinematics/assignment_make-it-roll-vicentepedro) | :x: | **0** |
+| [assignment_make-it-roll-vicentepedro](https://github.com/vvv17-kinematics/assignment_make-it-roll-vicentepedro) | :white_check_mark: | **3** |
 
-![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
 
 ---
 
