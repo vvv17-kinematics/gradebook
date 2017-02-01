@@ -350,10 +350,15 @@
         "name": "tutorial_cartesian-interface-jibweb",
         "status": ":white_check_mark:",
         "score": 1
+      },
+      {
+        "name": "tutorial_gaze-interface-jibweb",
+        "status": ":white_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [],
-    "score": 2
+    "score": 3
   },
   {
     "username": "jorisguerin",

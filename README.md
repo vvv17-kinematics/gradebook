@@ -220,8 +220,9 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_joint-interface-jibweb](https://github.com/vvv17-kinematics/tutorial_joint-interface-jibweb) | :white_check_mark: | **1** |
 | [tutorial_cartesian-interface-jibweb](https://github.com/vvv17-kinematics/tutorial_cartesian-interface-jibweb) | :white_check_mark: | **1** |
+| [tutorial_gaze-interface-jibweb](https://github.com/vvv17-kinematics/tutorial_gaze-interface-jibweb) | :white_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
 
 ---
 
