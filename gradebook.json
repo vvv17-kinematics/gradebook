@@ -121,9 +121,15 @@
   },
   {
     "username": "Dabuss",
-    "tutorials": [],
+    "tutorials": [
+      {
+        "name": "tutorial_joint-interface-Dabuss",
+        "status": ":white_check_mark:",
+        "score": 1
+      }
+    ],
     "assignments": [],
-    "score": 0
+    "score": 1
   },
   {
     "username": "damianomal",
