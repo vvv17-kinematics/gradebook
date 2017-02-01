@@ -381,9 +381,9 @@
 | [tutorial_cartesian-interface-pi-q](https://github.com/vvv17-kinematics/tutorial_cartesian-interface-pi-q) | :white_check_mark: | **1** |
 | [tutorial_gaze-interface-pi-q](https://github.com/vvv17-kinematics/tutorial_gaze-interface-pi-q) | :white_check_mark: | **1** |
 | [assignment_make-it-roll-pi-q](https://github.com/vvv17-kinematics/assignment_make-it-roll-pi-q) | :x: | **0** |
-| [assignment_grasp-it-pi-q](https://github.com/vvv17-kinematics/assignment_grasp-it-pi-q) | :x: | **0** |
+| [assignment_grasp-it-pi-q](https://github.com/vvv17-kinematics/assignment_grasp-it-pi-q) | :white_check_mark: | **5** |
 
-![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-8-brightgreen.svg?style=flat-square)
 
 ---
 

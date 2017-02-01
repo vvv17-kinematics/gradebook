@@ -891,12 +891,12 @@
       },
       {
         "name": "assignment_grasp-it-pi-q",
-        "status": ":x:",
-        "last_commit_date": "2017-01-31 22:39:05 UTC",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-02-01 21:40:58 UTC",
         "score": 5
       }
     ],
-    "score": 3
+    "score": 8
   },
   {
     "username": "svestark",
