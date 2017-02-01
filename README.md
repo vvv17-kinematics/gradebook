@@ -156,9 +156,9 @@
 | [tutorial_cartesian-interface-Dabuss](https://github.com/vvv17-kinematics/tutorial_cartesian-interface-Dabuss) | :white_check_mark: | **1** |
 | [tutorial_gaze-interface-Dabuss](https://github.com/vvv17-kinematics/tutorial_gaze-interface-Dabuss) | :white_check_mark: | **1** |
 | [assignment_make-it-roll-Dabuss](https://github.com/vvv17-kinematics/assignment_make-it-roll-Dabuss) | :white_check_mark: | **3** |
-| [assignment_grasp-it-Dabuss](https://github.com/vvv17-kinematics/assignment_grasp-it-Dabuss) | :x: | **0** |
+| [assignment_grasp-it-Dabuss](https://github.com/vvv17-kinematics/assignment_grasp-it-Dabuss) | :white_check_mark: | **5** |
 
-![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-11-brightgreen.svg?style=flat-square)
 
 ---
 
