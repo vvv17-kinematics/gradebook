@@ -309,6 +309,7 @@
 | [tutorial_joint-interface-nolbriker](https://github.com/vvv17-kinematics/tutorial_joint-interface-nolbriker) | :white_check_mark: | **1** |
 | [tutorial_cartesian-interface-nolbriker](https://github.com/vvv17-kinematics/tutorial_cartesian-interface-nolbriker) | :white_check_mark: | **1** |
 | [tutorial_gaze-interface-nolbriker](https://github.com/vvv17-kinematics/tutorial_gaze-interface-nolbriker) | :white_check_mark: | **1** |
+| [assignment_make-it-roll-nolbriker](https://github.com/vvv17-kinematics/assignment_make-it-roll-nolbriker) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
 
