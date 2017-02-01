@@ -183,8 +183,9 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_joint-interface-gmmarconi](https://github.com/vvv17-kinematics/tutorial_joint-interface-gmmarconi) | :white_check_mark: | **1** |
 | [tutorial_cartesian-interface-gmmarconi](https://github.com/vvv17-kinematics/tutorial_cartesian-interface-gmmarconi) | :white_check_mark: | **1** |
+| [tutorial_gaze-interface-gmmarconi](https://github.com/vvv17-kinematics/tutorial_gaze-interface-gmmarconi) | :white_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
 
 ---
 
