@@ -304,8 +304,9 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_joint-interface-pi-q](https://github.com/vvv17-kinematics/tutorial_joint-interface-pi-q) | :white_check_mark: | **1** |
+| [tutorial_cartesian-interface-pi-q](https://github.com/vvv17-kinematics/tutorial_cartesian-interface-pi-q) | :white_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
 ---
 
