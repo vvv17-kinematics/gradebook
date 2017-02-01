@@ -118,6 +118,7 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_joint-interface-BrutusTT](https://github.com/vvv17-kinematics/tutorial_joint-interface-BrutusTT) | :white_check_mark: | **1** |
 | [tutorial_gaze-interface-BrutusTT](https://github.com/vvv17-kinematics/tutorial_gaze-interface-BrutusTT) | :white_check_mark: | **1** |
+| [assignment_make-it-roll-BrutusTT](https://github.com/vvv17-kinematics/assignment_make-it-roll-BrutusTT) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
