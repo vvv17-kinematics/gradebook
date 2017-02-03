@@ -710,8 +710,8 @@
     "assignments": [
       {
         "name": "assignment_make-it-roll-LawrenceChen-i2r",
-        "status": ":x:",
-        "last_commit_date": "2017-01-26 15:52:44 UTC",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-02-03 15:30:50 UTC",
         "score": 3
       },
       {
@@ -721,7 +721,7 @@
         "score": 5
       }
     ],
-    "score": 8
+    "score": 11
   },
   {
     "username": "LuSeKa",
