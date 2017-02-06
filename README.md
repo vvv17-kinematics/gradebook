@@ -126,10 +126,11 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_joint-interface-BrutusTT](https://github.com/vvv17-kinematics/tutorial_joint-interface-BrutusTT) | :white_check_mark: | **1** |
 | [tutorial_gaze-interface-BrutusTT](https://github.com/vvv17-kinematics/tutorial_gaze-interface-BrutusTT) | :white_check_mark: | **1** |
+| [tutorial_cartesian-interface-BrutusTT](https://github.com/vvv17-kinematics/tutorial_cartesian-interface-BrutusTT) | :white_check_mark: | **1** |
 | [assignment_make-it-roll-BrutusTT](https://github.com/vvv17-kinematics/assignment_make-it-roll-BrutusTT) | :white_check_mark: | **3** |
 | [assignment_grasp-it-BrutusTT](https://github.com/vvv17-kinematics/assignment_grasp-it-BrutusTT) | :white_check_mark: | **5** |
 
-![total score](https://img.shields.io/badge/total_score-10-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-11-brightgreen.svg?style=flat-square)
 
 ---
 
