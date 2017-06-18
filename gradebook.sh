@@ -9,7 +9,7 @@
 # - jq
 
 org=vvv17-kinematics
-team=vvv17-students
+team=vvv-school/vvv17-students
 curdir=$(pwd)
 
 if [ -d build ]; then 
