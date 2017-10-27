@@ -1,6 +1,6 @@
 ## Gradebook of VVV17 Robot Kinematics
 
-As VVV17 is now over, the students repositories have been [archived](/archives).
+As VVV17 is now over, the students repositories have been [archived](https://github.com/vvv17-kinematics/vvv17-kinematics.github.io/tree/master/archives).
 
 ### [**AlexAntn**](https://github.com/AlexAntn) grade
 
